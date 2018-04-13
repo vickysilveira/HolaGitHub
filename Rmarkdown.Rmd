@@ -30,3 +30,5 @@ ggplot(data=mpg,aes(x=hwy, y=cty))+ geom_point()+theme(aspect.ratio=1)+ labs(x="
 library(xtable)
 xtable(mtcars[1:5,1:5])
 ```
+
+#Modificacion
